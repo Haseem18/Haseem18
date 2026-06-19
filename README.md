@@ -20,4 +20,4 @@
 
 ---
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/haseem-darve-67b463336/)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/haseem-darve-67b463336/) · [X (Twitter)](https://x.com/HaseemWeb6525)
