@@ -1,4 +1,3 @@
-```md
 ### Hi, I'm Haseem 👋
 
 🎓 BSc IT student, building real-world web development skills through **Thunder Batch (100 Days of Code)** by Rohit Negi.
