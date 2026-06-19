@@ -6,9 +6,10 @@
 
 ---
 
-### 💻 JavaScript Mini Projects
+### 💻 Projects
 
-🔗 **[View all projects](https://github.com/Haseem18/JS-Mini-Projects)** — small JS projects, built one concept at a time as part of Thunder Batch (100 Days of Code)
+- [Velora — Dark-themed E-commerce UI](https://haseem18.github.io/Velora/)
+- [Background Color Generator](https://haseem18.github.io/JS-Mini-Projects/01-background-color-generator/)
 
 ---
 
