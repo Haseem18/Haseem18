@@ -8,8 +8,8 @@
 
 ### 💻 Projects
 
-- [Velora — Dark-themed E-commerce UI](https://haseem18.github.io/Velora/)
-- [Background Color Generator](https://haseem18.github.io/JS-Mini-Projects/01-background-color-generator/)
+- 🛍️ [Velora — Dark-themed E-commerce UI](https://haseem18.github.io/Velora/)
+- 🎨 [Background Color Generator](https://haseem18.github.io/JS-Mini-Projects/01-background-color-generator/)
 
 ---
 
@@ -20,4 +20,4 @@
 
 ---
 
-📫 Connect with me on [LinkedIn](#)
+📫 Connect with me on [LinkedIn](#https://www.linkedin.com/in/haseem-darve-67b463336/)
