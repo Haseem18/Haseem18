@@ -11,6 +11,7 @@
 - 🛍️ [Velora — Dark-themed E-commerce UI](https://haseem18.github.io/Velora/)
 - 🎨 [Background Color Generator](https://haseem18.github.io/JS-Mini-Projects/01-background-color-generator/)
 - 💬 [Quote Generator](https://haseem18.github.io/JS-Mini-Projects/02-Quote-Generator/)
+- 😂 [Joke Generator](https://haseem18.github.io/JS-Mini-Projects/03-Joke-Generator/)
 
 ---
 
