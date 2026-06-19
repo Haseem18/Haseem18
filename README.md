@@ -10,12 +10,13 @@
 
 - 🛍️ [Velora — Dark-themed E-commerce UI](https://haseem18.github.io/Velora/)
 - 🎨 [Background Color Generator](https://haseem18.github.io/JS-Mini-Projects/01-background-color-generator/)
+- 💬 [Quote Generator](https://haseem18.github.io/JS-Mini-Projects/02-Quote-Generator/)
 
 ---
 
 ### 🛠️ Currently Learning
 
-- JavaScript (DOM, Events, Higher Order Functions)
+- JavaScript (DOM, Events, Higher-Order Functions)
 - Building real projects from scratch — no shortcuts
 
 ---
