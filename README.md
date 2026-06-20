@@ -15,6 +15,7 @@
 * 🧮 [Mini Calculator](https://haseem18.github.io/JS-Mini-Projects/04-Mini-Calculator/)
 * 🔢 [Counter](https://haseem18.github.io/JS-Mini-Projects/05-Counter/)
 * ❤️ [Love Calculator](https://haseem18.github.io/JS-Mini-Projects/06-Love-Calculator/)
+* 🔤 [Word & Text Counter](https://haseem18.github.io/JS-Mini-Projects/07-Word-&-Text-Counter/)
 
 ---
 
