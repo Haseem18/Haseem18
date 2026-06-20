@@ -8,19 +8,20 @@
 
 ### 💻 Projects
 
-- 🛍️ [Velora — Dark-themed E-commerce UI](https://haseem18.github.io/Velora/)
-- 🎨 [Background Color Generator](https://haseem18.github.io/JS-Mini-Projects/01-background-color-generator/)
-- 💬 [Quote Generator](https://haseem18.github.io/JS-Mini-Projects/02-Quote-Generator/)
-- 😂 [Joke Generator](https://haseem18.github.io/JS-Mini-Projects/03-Joke-Generator/)
-- 🧮 [Mini Calculator](https://haseem18.github.io/JS-Mini-Projects/04-Mini-Calculator/)
-- 🔢 [Counter](https://haseem18.github.io/JS-Mini-Projects/05-Counter/)
+* 🛍️ [Velora — Dark-themed E-commerce UI](https://haseem18.github.io/Velora/)
+* 🎨 [Background Color Generator](https://haseem18.github.io/JS-Mini-Projects/01-background-color-generator/)
+* 💬 [Quote Generator](https://haseem18.github.io/JS-Mini-Projects/02-Quote-Generator/)
+* 😂 [Joke Generator](https://haseem18.github.io/JS-Mini-Projects/03-Joke-Generator/)
+* 🧮 [Mini Calculator](https://haseem18.github.io/JS-Mini-Projects/04-Mini-Calculator/)
+* 🔢 [Counter](https://haseem18.github.io/JS-Mini-Projects/05-Counter/)
+* ❤️ [Love Calculator](https://haseem18.github.io/JS-Mini-Projects/06-Love-Calculator/)
 
 ---
 
 ### 🛠️ Currently Learning
 
-- JavaScript (DOM, Events, Higher-Order Functions)
-- Building real projects from scratch — no shortcuts
+* JavaScript (DOM, Events, Higher-Order Functions)
+* Building real projects from scratch — no shortcuts
 
 ---
 
