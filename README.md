@@ -13,6 +13,7 @@
 - 💬 [Quote Generator](https://haseem18.github.io/JS-Mini-Projects/02-Quote-Generator/)
 - 😂 [Joke Generator](https://haseem18.github.io/JS-Mini-Projects/03-Joke-Generator/)
 - 🧮 [Mini Calculator](https://haseem18.github.io/JS-Mini-Projects/04-Mini-Calculator/)
+- 🔢 [Counter](https://haseem18.github.io/JS-Mini-Projects/05-Counter/)
 
 ---
 
