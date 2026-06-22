@@ -17,6 +17,7 @@
 * ❤️ [Love Calculator](https://haseem18.github.io/JS-Mini-Projects/06-Love-Calculator/)
 * 🔤 [Word & Text Counter](https://haseem18.github.io/JS-Mini-Projects/07-Word-&-Text-Counter/)
 * 🔐 [Password Strength Checker](https://haseem18.github.io/JS-Mini-Projects/08-Password-Checker/)
+* 🕒 [Digital Clock](https://haseem18.github.io/JS-Mini-Projects/09-Digital-Clock/)
 
 ---
 
