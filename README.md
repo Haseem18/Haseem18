@@ -20,12 +20,14 @@
 * 🕒 [Digital Clock](https://haseem18.github.io/JS-Mini-Projects/09-Digital-Clock/)
 * 🏅 [Olympic Countdown Timer](https://haseem18.github.io/JS-Mini-Projects/10-Olympic-Countdown/)
 * ⏱️ [Stopwatch](https://haseem18.github.io/JS-Mini-Projects/11-Stopwatch/)
+* ❌ [Tic Tac Toe](https://haseem18.github.io/JS-Mini-Projects/12-Tic-Tac-Toe/)
 
 ---
 
 ### 🛠️ Currently Learning
 
 * JavaScript (DOM, Events, Higher-Order Functions)
+* APIs and Async JavaScript
 * Building real projects from scratch — no shortcuts
 
 ---
