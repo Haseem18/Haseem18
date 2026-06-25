@@ -21,13 +21,14 @@
 * 🏅 [Olympic Countdown Timer](https://haseem18.github.io/JS-Mini-Projects/10-Olympic-Countdown/)
 * ⏱️ [Stopwatch](https://haseem18.github.io/JS-Mini-Projects/11-Stopwatch/)
 * ❌ [Tic Tac Toe](https://haseem18.github.io/JS-Mini-Projects/12-Tic-Tac-Toe/)
+* 🐙 [GitHub Profiles Explorer](https://haseem18.github.io/JS-Mini-Projects/13-GitHub-Profiles/)
 
 ---
 
 ### 🛠️ Currently Learning
 
 * JavaScript (DOM, Events, Higher-Order Functions)
-* APIs and Async JavaScript
+* APIs, Fetch API, and Async JavaScript
 * Building real projects from scratch — no shortcuts
 
 ---
