@@ -52,76 +52,23 @@ Built while learning JavaScript from scratch through Thunder Batch.
 
 # 📂 JavaScript Mini Projects
 
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>01</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">🎨 Background Color Generator</font></a></td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">💬 Quote Generator</font></a></td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">😂 Joke Generator</font></a></td>
-    </tr>
-    <tr>
-      <td>04</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">🧮 Mini Calculator</font></a></td>
-    </tr>
-    <tr>
-      <td>05</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">🔢 Counter</font></a></td>
-    </tr>
-    <tr>
-      <td>06</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">❤️ Love Calculator</font></a></td>
-    </tr>
-    <tr>
-      <td>07</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">🔤 Word & Text Counter</font></a></td>
-    </tr>
-    <tr>
-      <td>08</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">🔐 Password Strength Checker</font></a></td>
-    </tr>
-    <tr>
-      <td>09</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">🕒 Digital Clock</font></a></td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">🏅 Olympic Countdown Timer</font></a></td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">⏱️ Stopwatch</font></a></td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">❌ Tic Tac Toe</font></a></td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">🐙 GitHub Profiles Explorer</font></a></td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">🌦️ Weather App</font></a></td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td><a href="https://github.io" style="color: #333333; text-decoration: none;"><font color="#333333">💱 Currency Converter</font></a></td>
-    </tr>
-  </tbody>
-</table>
+| #  | Project                                                                                                     |
+| -- | ----------------------------------------------------------------------------------------------------------- |
+| 01 | [🎨 Background Color Generator](https://haseem18.github.io/JS-Mini-Projects/01-background-color-generator/) |
+| 02 | [💬 Quote Generator](https://haseem18.github.io/JS-Mini-Projects/02-Quote-Generator/)                       |
+| 03 | [😂 Joke Generator](https://haseem18.github.io/JS-Mini-Projects/03-Joke-Generator/)                         |
+| 04 | [🧮 Mini Calculator](https://haseem18.github.io/JS-Mini-Projects/04-Mini-Calculator/)                       |
+| 05 | [🔢 Counter](https://haseem18.github.io/JS-Mini-Projects/05-Counter/)                                       |
+| 06 | [❤️ Love Calculator](https://haseem18.github.io/JS-Mini-Projects/06-Love-Calculator/)                       |
+| 07 | [🔤 Word & Text Counter](https://haseem18.github.io/JS-Mini-Projects/07-Word-&-Text-Counter/)               |
+| 08 | [🔐 Password Strength Checker](https://haseem18.github.io/JS-Mini-Projects/08-Password-Checker/)            |
+| 09 | [🕒 Digital Clock](https://haseem18.github.io/JS-Mini-Projects/09-Digital-Clock/)                           |
+| 10 | [🏅 Olympic Countdown Timer](https://haseem18.github.io/JS-Mini-Projects/10-Olympic-Countdown/)             |
+| 11 | [⏱️ Stopwatch](https://haseem18.github.io/JS-Mini-Projects/11-Stopwatch/)                                   |
+| 12 | [❌ Tic Tac Toe](https://haseem18.github.io/JS-Mini-Projects/12-Tic-Tac-Toe/)                                |
+| 13 | [🐙 GitHub Profiles Explorer](https://haseem18.github.io/JS-Mini-Projects/13-GitHub-Profiles/)              |
+| 14 | [🌦️ Weather App](https://haseem18.github.io/JS-Mini-Projects/14-Weather-App/)                              |
+| 15 | [💱 Currency Converter](https://haseem18.github.io/JS-Mini-Projects/15-Currency-Converter/)                 |
 
 ---
 
