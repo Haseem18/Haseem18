@@ -54,7 +54,7 @@ Built while learning JavaScript from scratch through Thunder Batch.
 
 | # | Project |
 |---|---------|
-| 01 | <a href="https://haseem18.github.io/JS-Mini-Projects/01-background-color-generator/" style="color: black; text-decoration: none;">🎨 Background Color Generator</a> |
+| 01 | <a href="https://haseem18.github.io/JS-Mini-Projects/01-background-color-generator/" style="color: inherit; text-decoration: none;">🎨 Background Color Generator</a> |
 | 02 | <a href="https://haseem18.github.io/JS-Mini-Projects/02-Quote-Generator/" style="color: inherit; text-decoration: none;">💬 Quote Generator</a> |
 | 03 | <a href="https://haseem18.github.io/JS-Mini-Projects/03-Joke-Generator/" style="color: inherit; text-decoration: none;">😂 Joke Generator</a> |
 | 04 | <a href="https://haseem18.github.io/JS-Mini-Projects/04-Mini-Calculator/" style="color: inherit; text-decoration: none;">🧮 Mini Calculator</a> |
