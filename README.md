@@ -52,23 +52,23 @@ Built while learning JavaScript from scratch through Thunder Batch.
 
 # 📂 JavaScript Mini Projects
 
-| #  | Project                       |
-| -- | ----------------------------- |
-| 01 | 🎨 Background Color Generator |
-| 02 | 💬 Quote Generator            |
-| 03 | 😂 Joke Generator             |
-| 04 | 🧮 Mini Calculator            |
-| 05 | 🔢 Counter                    |
-| 06 | ❤️ Love Calculator            |
-| 07 | 🔤 Word & Text Counter        |
-| 08 | 🔐 Password Strength Checker  |
-| 09 | 🕒 Digital Clock              |
-| 10 | 🏅 Olympic Countdown Timer    |
-| 11 | ⏱️ Stopwatch                  |
-| 12 | ❌ Tic Tac Toe                 |
-| 13 | 🐙 GitHub Profiles Explorer   |
-| 14 | 🌦️ Weather App               |
-| 15 | 💱 Currency Converter         |
+| # | Project |
+|---|---------|
+| 01 | <a href="https://haseem18.github.io/JS-Mini-Projects/01-background-color-generator/" style="color: inherit; text-decoration: none;">🎨 Background Color Generator</a> |
+| 02 | <a href="https://haseem18.github.io/JS-Mini-Projects/02-Quote-Generator/" style="color: inherit; text-decoration: none;">💬 Quote Generator</a> |
+| 03 | <a href="https://haseem18.github.io/JS-Mini-Projects/03-Joke-Generator/" style="color: inherit; text-decoration: none;">😂 Joke Generator</a> |
+| 04 | <a href="https://haseem18.github.io/JS-Mini-Projects/04-Mini-Calculator/" style="color: inherit; text-decoration: none;">🧮 Mini Calculator</a> |
+| 05 | <a href="https://haseem18.github.io/JS-Mini-Projects/05-Counter/" style="color: inherit; text-decoration: none;">🔢 Counter</a> |
+| 06 | <a href="https://haseem18.github.io/JS-Mini-Projects/06-Love-Calculator/" style="color: inherit; text-decoration: none;">❤️ Love Calculator</a> |
+| 07 | <a href="https://haseem18.github.io/JS-Mini-Projects/07-Word-&-Text-Counter/" style="color: inherit; text-decoration: none;">🔤 Word & Text Counter</a> |
+| 08 | <a href="https://haseem18.github.io/JS-Mini-Projects/08-Password-Checker/" style="color: inherit; text-decoration: none;">🔐 Password Strength Checker</a> |
+| 09 | <a href="https://haseem18.github.io/JS-Mini-Projects/09-Digital-Clock/" style="color: inherit; text-decoration: none;">🕒 Digital Clock</a> |
+| 10 | <a href="https://haseem18.github.io/JS-Mini-Projects/10-Olympic-Countdown/" style="color: inherit; text-decoration: none;">🏅 Olympic Countdown Timer</a> |
+| 11 | <a href="https://haseem18.github.io/JS-Mini-Projects/11-Stopwatch/" style="color: inherit; text-decoration: none;">⏱️ Stopwatch</a> |
+| 12 | <a href="https://haseem18.github.io/JS-Mini-Projects/12-Tic-Tac-Toe/" style="color: inherit; text-decoration: none;">❌ Tic Tac Toe</a> |
+| 13 | <a href="https://haseem18.github.io/JS-Mini-Projects/13-GitHub-Profiles/" style="color: inherit; text-decoration: none;">🐙 GitHub Profiles Explorer</a> |
+| 14 | <a href="https://haseem18.github.io/JS-Mini-Projects/14-Weather-App/" style="color: inherit; text-decoration: none;">🌦️ Weather App</a> |
+| 15 | <a href="https://haseem18.github.io/JS-Mini-Projects/15-Currency-Converter/" style="color: inherit; text-decoration: none;">💱 Currency Converter</a> |
 
 ---
 
