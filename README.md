@@ -51,6 +51,7 @@ Built while learning JavaScript from scratch through Thunder Batch.
 ---
 
 # 📂 JavaScript Mini Projects
+
 | #  | Project                       |
 | -- | ----------------------------- |
 | 01 | 🎨 Background Color Generator |
@@ -67,6 +68,7 @@ Built while learning JavaScript from scratch through Thunder Batch.
 | 12 | ❌ Tic Tac Toe                 |
 | 13 | 🐙 GitHub Profiles Explorer   |
 | 14 | 🌦️ Weather App               |
+| 15 | 💱 Currency Converter         |
 
 ---
 
