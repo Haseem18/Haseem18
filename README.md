@@ -91,9 +91,9 @@ Built while learning JavaScript from scratch through Thunder Batch.
 
 # 📊 GitHub Stats
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Haseem18&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFB300&icon_color=FFB300&text_color=FFFFFF" />
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=Haseem18&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFB300&icon_color=FFB300&text_color=FFFFFF" />
 <br>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haseem18&theme=dark&hide_border=true&background=0D0D0D&ring=FFB300&fire=FFB300&currStreakLabel=FFB300" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haseem18&theme=dark&hide_border=true&background=0D0D0D&ring=FFB300&fire=FFB300&currStreakLabel=FFB300" />
 </div>
 
 ---
