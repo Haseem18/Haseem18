@@ -22,8 +22,8 @@
 * 📍 Ratnagiri, Maharashtra, India
 * ⚡ Currently completing **Thunder Batch (100 Days of Code)** by Rohit Negi
 * 🏅 11x State Level Ranker in Web Development
-* 🧠 Learning JavaScript through real-world projects
-* 🚀 Building projects consistently and documenting the journey publicly
+* 🧠 Learning by building projects instead of following tutorials
+* 🚀 Sharing progress publicly through GitHub, LinkedIn, and X
 
 ---
 
@@ -39,14 +39,18 @@
 
 ---
 
-# 🚀 JavaScript Project Portfolio
+# 🚀 JavaScript Project Portfolio (16 Projects)
 Built while learning JavaScript from scratch through Thunder Batch.
 
-### Repository
-🔗 https://github.com/Haseem18/JS-Mini-Projects
+<p>
+<a href="https://github.com/Haseem18/JS-Mini-Projects">
+<img src="https://img.shields.io/badge/Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=FFB300" />
+</a>
 
-### Live Demo
-🌐 https://haseem18.github.io/JS-Mini-Projects/
+<a href="https://haseem18.github.io/JS-Mini-Projects/">
+<img src="https://img.shields.io/badge/Live_Demo-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=FFB300" />
+</a>
+</p>
 
 ---
 
@@ -65,10 +69,11 @@ Built while learning JavaScript from scratch through Thunder Batch.
 | 09 | [🕒 Digital Clock](https://haseem18.github.io/JS-Mini-Projects/09-Digital-Clock/)                           |
 | 10 | [🏅 Olympic Countdown Timer](https://haseem18.github.io/JS-Mini-Projects/10-Olympic-Countdown/)             |
 | 11 | [⏱️ Stopwatch](https://haseem18.github.io/JS-Mini-Projects/11-Stopwatch/)                                   |
-| 12 | [❌ Tic Tac Toe](https://haseem18.github.io/JS-Mini-Projects/12-Tic-Tac-Toe/)                                |
+| 12 | [❌ Tic Tac Toe](https://haseem18.github.io/JS-Mini-Projects/12-Tic-Tac-Toe/)                               |
 | 13 | [🐙 GitHub Profiles Explorer](https://haseem18.github.io/JS-Mini-Projects/13-GitHub-Profiles/)              |
-| 14 | [🌦️ Weather App](https://haseem18.github.io/JS-Mini-Projects/14-Weather-App/)                              |
+| 14 | [🌦️ Weather App](https://haseem18.github.io/JS-Mini-Projects/14-Weather-App/)                               |
 | 15 | [💱 Currency Converter](https://haseem18.github.io/JS-Mini-Projects/15-Currency-Converter/)                 |
+| 16 | [📝 To Do List](https://haseem18.github.io/JS-Mini-Projects/16-To-Do-List/)                                 |
 
 ---
 
@@ -80,15 +85,15 @@ Built while learning JavaScript from scratch through Thunder Batch.
 * Async/Await
 * Error Handling
 * API Integration
-* React (Upcoming)
+* Building Real-World JavaScript Projects
 
 ---
 
 # 📊 GitHub Stats
 <div align="center">
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=Haseem18&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFB300&icon_color=FFB300&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Haseem18&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFB300&icon_color=FFB300&text_color=FFFFFF" />
 <br>
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haseem18&theme=dark&hide_border=true&background=0D0D0D&ring=FFB300&fire=FFB300&currStreakLabel=FFB300" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haseem18&theme=dark&hide_border=true&background=0D0D0D&ring=FFB300&fire=FFB300&currStreakLabel=FFB300" />
 </div>
 
 ---
@@ -102,6 +107,6 @@ Built while learning JavaScript from scratch through Thunder Batch.
 
 <div align="center">
 
-### ⚡ Building Projects Every Day Through Thunder Batch
+### ⚡ Learn → Build → Share → Repeat
 
 </div>
